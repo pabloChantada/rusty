@@ -1,1 +1,1 @@
-/Users/circus/personal/rusty/projects/guessing_game/target/debug/guessing_game: /Users/circus/personal/rusty/projects/guessing_game/src/main.rs
+/home/clown/repos/rusty/projects/guessing_game/target/debug/guessing_game: /home/clown/repos/rusty/projects/guessing_game/src/main.rs

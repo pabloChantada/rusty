@@ -1,0 +1,72 @@
+# === Rust / Cargo ===
+target/
+Cargo.lock
+**/*.rs.bk
+
+# === Build Artifacts ===
+debug/
+release/
+*.exe
+*.dll
+*.so
+*.dylib
+*.rlib
+*.a
+*.o
+*.obj
+*.pdb
+
+# === IDE / Editor Files ===
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains / IntelliJ / CLion / RustRover
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim / Neovim
+*.swp
+*.swo
+*.swn
+Session.vim
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# === OS-specific ===
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# === Logs / Temporary ===
+*.log
+*.tmp
+*.bak
+
+# === Testing / Coverage ===
+/coverage/
+*.profraw
+*.profdata
+
+# === Misc ===
+.env
+.env.*
+
